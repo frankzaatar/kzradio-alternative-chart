@@ -37,7 +37,7 @@
   </itunes:summary>
 
   <itunes:author>רדיו הקצה</itunes:author>
-  <itunes:image href="https://frankzaatar.github.io/kzradio-alternative-chart/cover.png"/>
+  <itunes:image href="https://frankzaatar.github.io/kzradio-alternative-chart/cover.jpg"/>
 
   <itunes:category text="Music"/>
 
@@ -70,7 +70,7 @@
 
     <!-- Apple Podcasts recommended -->
     <itunes:duration>00:30:00</itunes:duration> <!-- Replace with actual length -->
-    <itunes:image href="https://frankzaatar.github.io/kzradio-alternative-chart/cover-large.jpg"/>
+    <itunes:image href="https://frankzaatar.github.io/kzradio-alternative-chart/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
